@@ -1,0 +1,24 @@
+{
+  "name": "my-online-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyakum1990/my-online-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyakum1990/my-online-shop/issues"
+  },
+  "homepage": "https://github.com/shreyakum1990/my-online-shop#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8",
+    "morgan": "^1.9.1"
+  }
+}
